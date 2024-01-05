@@ -31,3 +31,4 @@ print("{:.2f}".format(result))
 
 
 ### RESULT:
+The distance between the two points have been calculated and displayed successfully 
